@@ -51,8 +51,8 @@ Our mission is to transform your ideas into successful blockchain projects, comb
 
 ## Contact Us / Зв'яжіться з нами / Свяжитесь с нами
 
-- 🌐 **Website/Сайт**: [ncrypto.io](https://ncrypto.dev)
-- 📧 **Email**: info@ncrypto.io
+- 🌐 **Website/Сайт**: [ncrypto.dev](https://ncrypto.dev)
+- 📧 **Email**: info@ncrypto.dev
 - 💬 **Telegram**: [@ncrypto_io](https://t.me/ncrypto_io)
 - 📱 **Instagram**: [@ncrypto.io](https://www.instagram.com/ncrypto.io/)
 - 📺 **YouTube**: [@ncryptoofficial](https://youtube.com/@ncryptoofficial)
