@@ -1,7 +1,7 @@
 # NCRYPTO
 
 <div align="center">
-  <img src="https://ncrypto.io/images/logo.png" alt="NCRYPTO Logo" width="300px">
+  <img src="https://ncrypto.dev/images/logo.png" alt="NCRYPTO Logo" width="300px">
   <h3>From idea to launch — Web3 for your business</h3>
 </div>
 
@@ -51,7 +51,7 @@ Our mission is to transform your ideas into successful blockchain projects, comb
 
 ## Contact Us / Зв'яжіться з нами / Свяжитесь с нами
 
-- 🌐 **Website/Сайт**: [ncrypto.io](https://ncrypto.io)
+- 🌐 **Website/Сайт**: [ncrypto.io](https://ncrypto.dev)
 - 📧 **Email**: info@ncrypto.io
 - 💬 **Telegram**: [@ncrypto_io](https://t.me/ncrypto_io)
 - 📱 **Instagram**: [@ncrypto.io](https://www.instagram.com/ncrypto.io/)
